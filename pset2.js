@@ -13,14 +13,15 @@ In this problem, you will be downloading some files from online, then creating a
         /images
             amazon.jpg
             facebook.png
+            move facebook.png c:\Users\Yang\Blackfolder\PCNWLab-Command-Line\assets\images
             google.jpg
             twitter.png
         /memes
             meme.jpg
         /src
             foo.js
-    app.js
-    hello.html
+            app.js
+            hello.html
 
 4. Open `hello.html` using a code editor and change "SOME_CLASS" to "Full Stack: Nights & Weekends". Save it.
 
@@ -33,3 +34,4 @@ In this problem, you will be downloading some files from online, then creating a
 - added all sources
 - modified hello file
 ******************/
+
